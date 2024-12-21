@@ -1,0 +1,23 @@
+# System Specifications
+CPU:     1 Core
+Storage: 25 GB
+Memory:  1 GB
+Volumes: 0
+Region:  JP, Tokyo 2
+Ubuntu 24.04 LTS Disk Profile – GRUB 2
+
+
+# Web Server
+- nginx
+- auto accept new packages
+
+# website project
+ - root directory /var/www/my-website/
+ - name : ytshaha Main Website
+
+
+# git config
+- user.name : "Taesun Yoo"
+- user.email : ytshaha@hanmail.net
+- github username : stockholm44
+- github repo namme : "Cursor Hello World"
